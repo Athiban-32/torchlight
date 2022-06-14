@@ -1,3 +1,4 @@
-# torchlight
 
-### torchLight application using android studio
+### `torchlight`
+
+# TorchLight App using Android Studio
