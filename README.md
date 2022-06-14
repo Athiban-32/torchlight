@@ -1,3 +1,3 @@
 # torchlight
 
-### 'TorchLight Application using Android Studio'
+### torchLight application using android studio
